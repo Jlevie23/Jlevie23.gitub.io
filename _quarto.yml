@@ -1,15 +1,13 @@
 project:
   type: website
-
+  output-dir: docs
 website:
   title: "junk"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
-      - icon: twitter
-        href: https://twitter.com
+        href: https://github.com/Jlevie23
 format:
   html:
     theme: cosmo
