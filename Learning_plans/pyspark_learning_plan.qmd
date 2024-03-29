@@ -1,0 +1,42 @@
+---
+title: "Pyspark Learning Plan"
+format: 
+  html:
+    embed-resources: true
+    toc: true
+    code-fold: true
+execute: 
+  echo: true
+---
+
+# Methods
+
+::: panel-tabset
+## Videos
+
+I often find greater benefit in watching video tutorials when learning about any new subject matter. So I feel it would only be appropriate that I start with these two videos linked below. The first video gives a description of the spark architecture and should serve well for building the foundation of this process.
+
+The second is on Docker.. which was not explicitly mentioned in the plan sent to Hathaway, but I still feel an obligation to watch a 60 minute video walking through what it is and potentially some use cases.
+
+[Spark Architecture](https://www.youtube.com/watch?v=_ArCesElWp8)
+
+[Docker](https://www.youtube.com/watch?v=i7ABlHngi1Q)
+
+## Learning
+
+I've personally never used LinkedIn courses in any context. So, I am curious to give that a try and to discover what knowledge is to be had in their learning structure. I also have a link to the pyspark SQL Functions that I believe will be a great reference to not only learn, but reference as needed.
+
+[LinkedIn Azure Spark Databricks](https://www.linkedin.com/learning/azure-spark-databricks-essential-training/optimize-data-pipelines)
+
+[Pyspark SQL Functions](https://spark.apache.org/docs/latest/quick-start.html)
+
+## Other Useful Resources
+
+These are more reference sake or if I find additional time to help further my knowledge and understanding.
+
+[Functions](https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/index.html)
+
+[Column Methods](https://mungingdata.com/apache-spark/column-methods/)
+
+[ML Use Cases](https://www.databricks.com/wp-content/uploads/2022/12/big-book-of-machine-learning-use-cases-2nd-edition.pdf)
+:::
